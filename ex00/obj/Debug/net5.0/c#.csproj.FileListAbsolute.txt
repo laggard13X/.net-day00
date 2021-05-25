@@ -1,0 +1,15 @@
+/Users/edread/c#/obj/Debug/net5.0/c#.csprojAssemblyReference.cache
+/Users/edread/c#/obj/Debug/net5.0/c#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/edread/c#/obj/Debug/net5.0/c#.AssemblyInfoInputs.cache
+/Users/edread/c#/obj/Debug/net5.0/c#.AssemblyInfo.cs
+/Users/edread/c#/obj/Debug/net5.0/c#.csproj.CoreCompileInputs.cache
+/Users/edread/c#/bin/Debug/net5.0/c#.deps.json
+/Users/edread/c#/bin/Debug/net5.0/c#.runtimeconfig.json
+/Users/edread/c#/bin/Debug/net5.0/c#.runtimeconfig.dev.json
+/Users/edread/c#/bin/Debug/net5.0/c#.dll
+/Users/edread/c#/bin/Debug/net5.0/ref/c#.dll
+/Users/edread/c#/bin/Debug/net5.0/c#.pdb
+/Users/edread/c#/obj/Debug/net5.0/c#.dll
+/Users/edread/c#/obj/Debug/net5.0/ref/c#.dll
+/Users/edread/c#/obj/Debug/net5.0/c#.pdb
+/Users/edread/c#/obj/Debug/net5.0/c#.genruntimeconfig.cache
